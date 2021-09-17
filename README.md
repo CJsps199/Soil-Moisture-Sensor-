@@ -1,5 +1,5 @@
 # Soil-Moisture-Sensor-
-Soil Moisture sensor utilizing IBM LMIC Library for LoRaWan© &amp; Chirpstack Network Server
+Soil Moisture sensor utilizing MCCI LMIC Library for LoRaWan© &amp; Chirpstack Network Server
 
 # FOR SINGLE CHANNEL GATEWAY ONLY
 Gateway & Sensor Node code.
